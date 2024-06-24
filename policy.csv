@@ -1,0 +1,18 @@
+p, student, class, attend
+p, student, exam, take
+p, student, homework, download
+
+p, teacher, class, attend
+p, teacher, exam, take
+
+p, admin, users, manage
+p, admin, roles, manage
+p, admin, permissions, manage
+
+p, guest, class_schedule, view
+
+g, feruza, student
+g, bob, teacher
+g, charlie, admin
+g, david, guest
+

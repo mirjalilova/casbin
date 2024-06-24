@@ -1,0 +1,27 @@
+p, student, class, attend, class_time
+
+p, student, exam, take, payment_done
+
+p, student, class, use, face_id
+
+p, student, exam, take, enough_points
+
+p, student, homework, download, class_time
+
+p, teacher, exam, take, lesson_20
+
+p, teacher, class, attend, class_time
+
+p, admin, users, manage, any_time
+
+p, admin, roles, manage, any_time
+
+p, admin, permissions, manage, any_time
+
+p, guest, class_schedule, view, any_time
+
+g, feruza, student
+g, bob, teacher
+g, charlie, admin
+g, david, guest
+

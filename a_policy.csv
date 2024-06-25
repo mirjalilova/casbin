@@ -1,6 +1,7 @@
-p, student, class, attend, in, face_id, enough_point, payment, lesson
+p, student, class, attend, in, true, 60, true, 20
 
-
+p, teacher, exam, take, in, true, 60, true, 20
+p, teacher, class, attend, in, true, 60, true, 20
 
 g, feruza, student
-
+g, bob, teacher
